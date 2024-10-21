@@ -27,7 +27,7 @@ Solutions:
 
 4. Write a short email or Slack message to the business stakeholder
 <br>
-**Solution**: *stakeholder_communication* will have email/slack message for the stakeholder.
+**Solution**: *stakeholder_communication.pdf* will have email/slack message for the stakeholder.
 
 
    
