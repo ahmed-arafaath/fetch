@@ -1,6 +1,6 @@
 # Fetch
 
-This is repo contains the solution to the coding exercise for the Analytics Engineer role.
+This repo contains the solution to the coding exercise for the Analytics Engineer role.
 
 The exercise itself has 4 questions,
 1. Review unstructured JSON data and diagram a new structured relational data model
@@ -26,5 +26,8 @@ Solutions:
 *Note: Some assumptions were made as part of the business operations to validate the data, the notebook will have them laid out, if any assumption is missing, let me know, I'll add it to the report.*
 
 4. Write a short email or Slack message to the business stakeholder
+<br>
+**Solution**: *stakeholder_communication* will have email/slack message for the stakeholder.
 
-** Solution**: *stakeholder_communication* will have email/slack message for the stakeholder.
+
+   
